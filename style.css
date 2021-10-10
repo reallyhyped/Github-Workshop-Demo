@@ -13,20 +13,18 @@
 **/
 
 * {
-  margin: 0;
-  padding: 0;
-  font-family: "Ruda", sans-serif;
-  text-align: center;
-  --insert-liner-gradient-here: linear-gradient(
-    90deg,
-    rgba(250, 128, 114, 1) 0%,
-    rgba(250, 152, 114, 1) 100%
-  );
-  --font-color: rgba(0, 0, 0, 0.6);
-  --container-size-width: 30vw;
-  --container-size-height: 60vh;
-  --container-size-height-back: 70vh;
+    margin: 0;
+    padding: 0;
+    font-family: "Ruda", sans-serif;
+    text-align: center;
+    --insert-liner-gradient-here: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(59,233,169,1) 35%, rgba(0,212,255,1) 100%);
+    );
+    --font-color: rgba(0, 0, 0, 0.6);
+    --container-size-width: 30vw;
+    --container-size-height: 60vh;
+    --container-size-height-back: 70vh;
 }
+
 
 body {
   width: 100vw;
