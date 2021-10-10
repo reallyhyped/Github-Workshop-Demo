@@ -1,4 +1,4 @@
-﻿# Github-demo [This page](https://sunny7dusk.github.io/Github-demo/)
+﻿# Github-demo [This page](https://reallyhyped.github.io/Github-Workshop-Demo/)
  
  ## Github Terminology 🤓
  
